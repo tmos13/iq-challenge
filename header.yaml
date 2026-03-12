@@ -1,0 +1,13 @@
+pack_id: iq_challenge
+name: IQ Challenge
+category: education
+status: active
+version: 1.0.0
+estimated_turns: 24-40
+description: >
+  Cognitive assessment across verbal, numerical, pattern, and spatial reasoning.
+  Adaptive difficulty. Scored profile with cognitive signature.
+  Not a clinical IQ test — a rigorous thinking challenge.
+author: TMOS13, LLC
+deliverable: cognitive_profile
+tags: [education, assessment, cognitive, IQ, reasoning, logic]
